@@ -1,6 +1,6 @@
 [submodule "VioletGG2-Static"]
 	path = VioletGG2-Static
 	url = https://codeberg.org/MonkeyGG2/VioletGG2-Static
-[submodule "VioletGG2-Static/public/monkeygg2"]
+[submodule "VioletGG2-Static/public/MonkeyGG2"]
 	path = VioletGG2-Static/public/monkeygg2
 	url = https://codeberg.org/MonkeyGG2/pages
