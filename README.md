@@ -2,7 +2,7 @@
 
 <h1 align="center">VioletGG2</h1>
 
-An easily deployable version of MonkeyGG2 with a built-in proxy, powered by (https://github.com/titaniumnetwork-dev/Ultraviolet)[Ultraviolet].
+An easily deployable version of MonkeyGG2 with a built-in proxy, powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
 
 # Deployment
 
