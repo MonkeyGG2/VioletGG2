@@ -36,7 +36,7 @@ If you are deploying to an alternative service or to a server, then follow these
   ```
 - Edit the config for `/VioletGG2-Static/public/MonkeyGG2/config.jsonc` like this:
 
-```json
+```jsonc
 {
   // ... games and other stuff
   "config": {
